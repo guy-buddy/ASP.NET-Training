@@ -12,7 +12,7 @@ namespace ConsoleApplication1
         {
 
             Console.WriteLine("A");
-
+            Console.WriteLine("YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY");
         }
     }
 }
